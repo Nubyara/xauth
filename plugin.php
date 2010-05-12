@@ -118,7 +118,7 @@ class XAuthPlugin {
   <body onload="doLogin('<?php echo $redirect_to; ?>')">
     <p>tell XAuth.org that you are online...</p>
     <form id="login_redirect_form" action="<?php echo $redirect_to; ?>" method="get">
-      <input type="submit" value="Continue" /></div>
+      <input type="submit" value="Continue" />
     </form>
   </body>
 </html>
