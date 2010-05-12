@@ -18,7 +18,7 @@ Users can choose to authenticate directly from the publisher site and use the se
 
 == Changelog ==
 
-= 0.1 =
+= 0.13 =
 * Initial release
 
 == Installation ==
